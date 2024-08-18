@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "911553301255",
+    "project_id": "paris-taxi-app",
+    "storage_bucket": "paris-taxi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911553301255:android:3d472d5e3fda921a3c93a2",
+        "android_client_info": {
+          "package_name": "com.example.taxiassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911553301255-ond3h10monsiqth0suei6s5kq23gh8ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxiassist",
+            "certificate_hash": "d04819afea64ffa9ff1933e5095c6d349881bba1"
+          }
+        },
+        {
+          "client_id": "911553301255-epll2utllshunmjibc31r8alpl18k9he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDziLdh7wRWqZtzLmBooaafGw7-EJwb3KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911553301255-epll2utllshunmjibc31r8alpl18k9he.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "911553301255-o1ma45peu59inkafer193raf6c3g7o1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taxiassist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
